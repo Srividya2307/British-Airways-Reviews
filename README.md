@@ -1,2 +1,2 @@
 # British-Airways-Reviews
-An interactive dashboard to visualize customer ratings across service  categories using calculated fields, parameters, and filters
+An interactive Tableau dashboard to visualize average passenger ratings across various service categories. Mapped ratings based on food & beverage, entertainment, cabin crew staff, ground-level staff, and seat comfort. Implemented calculated fields and parameters to extract actionable insights. Added filters for timeline, aircraft type, passenger type, and cabin class, enabling dynamic data exploration.
